@@ -2,36 +2,33 @@
 
 **AI/ML Enthusiast | Java Backend Learner | Competitive Programmer**
 
-I’m building my career at the intersection of **Machine Learning** and **Backend Engineering**.  
-My primary interest is in **ML and Data Science** — I enjoy Python-based data work, training models, and understanding how intelligent systems behave.  
-At the same time, I keep myself strong in **Java and DSA**, because scalable backend systems are essential for deploying and managing real ML workflows.
+I’m building my career around **Machine Learning** and **Backend Engineering**.  
+My main interest is in ML and Data Science, and I enjoy Python-based model building and data work.  
+At the same time, I stay strong in **Java and DSA** because scalable backend systems are essential for real-world ML.
 
 ---
 
-## 🚀 What I’m Currently Focused On
-- Implementing core ML algorithms, pipelines, and model training workflows  
-- Exploring Java-based backend development — REST APIs, services, and scalable pipelines  
-- Daily DSA and competitive programming to strengthen problem-solving  
-- Building projects that combine ML models with solid backend architecture  
+## 🚀 Focus Areas
+- ML algorithms, pipelines & model training  
+- Java backend development (REST APIs, services)  
+- DSA + competitive programming  
+- Building projects that blend ML with backend systems  
 
 ---
 
 ## 💻 Tech Stack
 **Languages:** Python, Java, C  
-**Domains:** Machine Learning, Backend Engineering, Data Pipelines  
+**Domains:** ML, Backend Engineering  
 **Tools:** NumPy, Pandas, Scikit-learn, TensorFlow/PyTorch (learning), SQL, Git/GitHub, Spring Boot (learning)
 
 ---
 
 ## 🎯 Goals
-- Build systems that integrate ML models into reliable production backends  
-- Grow into roles in **ML Engineering** or **Backend Development**  
-- Become someone who can handle both AI-driven components and robust backend services  
+- Work in ML Engineering or Java Backend roles  
+- Build ML systems ready for production  
+- Grow into someone who handles both models and backend pipelines  
 
----
 
-## 🌱 Learning Mindset
-I enjoy experimenting, building, debugging, and continuously improving my understanding of both algorithms and systems.
 
 
 ## 🌐 Socials:
