@@ -2,31 +2,22 @@
 
 **AI/ML Enthusiast | Java Backend Learner | Competitive Programmer**
 
-I’m building my career around **Machine Learning** and **Backend Engineering**.  
-My main interest is in ML and Data Science, and I enjoy Python-based model building and data work.  
-At the same time, I stay strong in **Java and DSA** because scalable backend systems are essential for real-world ML.
+I’m building my career at the intersection of **Machine Learning** and **Backend Engineering**.  
+My primary interest is in ML and Data Science — I enjoy Python-based model building, data work, and understanding how intelligent systems behave.  
+At the same time, I maintain strong skills in **Java and DSA**, because scalable backend systems are essential for deploying real ML workflows.
 
 ---
 
-## 🚀 Focus Areas
-- ML algorithms, pipelines & model training  
-- Java backend development (REST APIs, services)  
-- DSA + competitive programming  
-- Building projects that blend ML with backend systems  
+## 🔧 What I Do & Learn
+- Build and experiment with ML models and pipelines  
+- Explore Java backend development (REST APIs, services, scalable systems)  
+- Practice DSA and competitive programming to stay sharp  
+- Work on projects that blend ML models with backend architecture  
 
 ---
 
-## 💻 Tech Stack
-**Languages:** Python, Java, C  
-**Domains:** ML, Backend Engineering  
-**Tools:** NumPy, Pandas, Scikit-learn, TensorFlow/PyTorch (learning), SQL, Git/GitHub, Spring Boot (learning)
-
----
-
-## 🎯 Goals
-- Work in ML Engineering or Java Backend roles  
-- Build ML systems ready for production  
-- Grow into someone who handles both models and backend pipelines  
+## 🌱 Mindset
+I like learning by building — experimenting, debugging, improving, and growing one step at a time.
 
 
 
