@@ -11,9 +11,12 @@
 I’m building my career at the intersection of **Machine Learning** and **Backend Engineering**.  
 My primary interest is in ML and Data Science — I enjoy Python-based model building, data work, and understanding how intelligent systems behave.  
 At the same time, I maintain strong skills in **Java and Python**, because scalable backend systems are essential for deploying real ML workflows.
+
+- 📫 How to reach me **debojitnathwork@gmail.com**
+
+- ⚡ Fun fact **I'm a secretly Batman 🦇**
+
 <br><br>
-
-
 
 ## 🔧 What I Do & Learn
 
