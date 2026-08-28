@@ -1,6 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=4AECF7&center=true&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hello+World!)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=4AECF7&center=true&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hello+World!" alt="Typing SVG" /></a>
+  <br/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=4AECF7&center=true&width=435&lines=It's+Debojit+here+%F0%9F%8C%9A" alt="Typing SVG" /></a>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=4AECF7&center=true&width=435&lines=It's+Debojit+here+%F0%9F%8C%9A)](https://git.io/typing-svg)
 
 **AI/ML Enthusiast | Java Backend Learner | Competitive Programmer**
 
