@@ -62,7 +62,7 @@ I like learning by building — experimenting, debugging, improving, and growing
 ![](https://github-profile-trophy.vercel.app/?username=debojitnath&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=debojitnath&limit=5&theme=darcula&combine_all_yearly_contributions=true)
@@ -70,4 +70,6 @@ I like learning by building — experimenting, debugging, improving, and growing
 ## 👀 Profile Views
 [![](https://komarev.com/ghpvc/?username=debojitnath&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFudXhqZ2Y0dGxrN3p5bXFhbGJvdHlqb2Ridmx5bTYzNzNqa284aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="500" alt="GIF of matrix code or fast typing">
+</p>
