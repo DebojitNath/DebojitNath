@@ -27,9 +27,6 @@ At the same time, I maintain strong skills in **Java and Python**, because scala
 
 
 
-## 🌱 Mindset
-I like learning by building — experimenting, debugging, improving, and growing one step at a time.<br><br>
-
 
 ## 🌐 Socials:
 <p align="left">
@@ -54,21 +51,28 @@ I like learning by building — experimenting, debugging, improving, and growing
 <br><br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=debojitnath&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=debojitnath&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=debojitnath&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=debojitnath&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=debojitnath&theme=aura&animation=rgb-soft" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=debojitnath&theme=aura&animation=rgb" /> &emsp;&emsp;&emsp;&emsp;&emsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=debojitnath&theme=aura&animation=rgb" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=debojitnath&theme=radical&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debojitnath&theme=aura&animation=rgb-soft&name=Debojit+Nath" />
+</p>
 
 ## ✍️ Random Dev Quote
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=debojitnath&limit=5&theme=darcula&combine_all_yearly_contributions=true)
-
 ## 👀 Profile Views
 [![](https://komarev.com/ghpvc/?username=debojitnath&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🌱 Mindset
+I like learning by building — experimenting, debugging, improving, and growing one step at a time.<br><br>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFudXhqZ2Y0dGxrN3p5bXFhbGJvdHlqb2Ridmx5bTYzNzNqa284aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="500" alt="GIF of matrix code or fast typing">
