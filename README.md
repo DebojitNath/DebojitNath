@@ -6,6 +6,9 @@
 
 
 **AI/ML Enthusiast | Java Backend Learner | Competitive Programmer**
+<p>
+  <img src="https://komarev.com/ghpvc/?username=debojitnath&style=flat-square" />
+</p>
 
 # 💫 About Me:
 I’m building my career at the intersection of **Machine Learning** and **Backend Engineering**.  
@@ -68,8 +71,16 @@ At the same time, I maintain strong skills in **Java and Python**, because scala
 ## ✍️ Random Dev Quote
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## 👀 Profile Views
-[![](https://komarev.com/ghpvc/?username=debojitnath&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🐍 Snake Game
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DebojitNath/DebojitNath/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DebojitNath/DebojitNath/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DebojitNath/DebojitNath/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+<br><br>
 
 ## 🌱 Mindset
 I like learning by building — experimenting, debugging, improving, and growing one step at a time.<br><br>
