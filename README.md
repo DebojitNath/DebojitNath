@@ -84,7 +84,6 @@ At the same time, I maintain strong skills in **Java and Python**, because scala
 
 ## 🌱 Mindset
 I like learning by building — experimenting, debugging, improving, and growing one step at a time.<br><br>
-
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFudXhqZ2Y0dGxrN3p5bXFhbGJvdHlqb2Ridmx5bTYzNzNqa284aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="500" alt="GIF of matrix code or fast typing">
 </p>
