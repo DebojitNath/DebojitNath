@@ -54,19 +54,14 @@ At the same time, I maintain strong skills in **Java and Python**, because scala
 <br><br>
 
 # 📊 GitHub Stats:
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=debojitnath&theme=aura&animation=rgb-soft" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=debojitnath&theme=aura&animation=rgb" /> &emsp;&emsp;&emsp;&emsp;&emsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=debojitnath&theme=aura&animation=rgb" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=debojitnath&theme=radical&hide_border=true" />
 </p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debojitnath&theme=aura&animation=rgb-soft&name=Debojit+Nath" />
-</p>
+
 
 ## ✍️ Random Dev Quote
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
